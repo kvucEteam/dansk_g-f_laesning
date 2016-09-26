@@ -1,0 +1,48 @@
+﻿<?xml version="1.0"?>
+<wrap>
+	<runde>
+		<spm tekst="Hvad kan Else ikke få øje på i spejlet?"
+		korrekt="0"
+		forklaring="Sine håb og drømme.">
+			<svar value="Sine håb og drømme."/>
+			<svar value="Moppen og spanden."/>
+			<svar value="Den mystiske mand, der har sneget sig in på toilettet."/>
+			<svar value="Om det er forår eller efterår udenfor."/>	
+		</spm>
+		<spm tekst="Hvad hedder Bankdirektøren?"
+		korrekt="1"
+		forklaring="Madsen.">
+				<svar value="Klausen."/>
+				<svar value="Madsen."/>
+				<svar value="Hansen."/>
+				<svar value="Jensen"/>
+			</spm>
+			<spm tekst="Hvorfor kigger Else aldrig efter om der ligger noget i poserne?"
+			korrekt="2"
+			forklaring="Hun glemmer det, og skænker det ikke en tanke før hånden er godt nede i skraldeposen.">
+				<svar value="Fordi hun gerne vil leve livet farligt."/>
+				<svar value="Fordi hun ikke vil gøre som John siger."/>
+				<svar value="Hun glemmer det, og skænker det ikke en tanke før hånden er godt nede i skraldeposen."/>
+				<svar value="Hun håber inderest inde på at stikke sig på en kanyle."/>
+			</spm>
+			<spm tekst="Hvorfor tænker Else at hun må huske at hilse på John og smile til ham?"
+			korrekt="0"
+			forklaring="Fordi alle har brug for en smule respekt.">
+				<svar value="Fordi alle har brug for en smule respekt."/>
+				<svar value="Fordi hun er forelsket i ham."/>
+				<svar value="Fordi alle er bange for ham."/>
+				<svar value="Fordi John altid er sød ved Else."/>
+			</spm>
+			<spm tekst="Hvad er det første Else gør når hun kommer på arbejde?"
+			korrekt="2"
+			forklaring="Hun åbner dørene og sparker kilerne ind under dem.">
+			<svar value="Hænger sin frakke i depotet."/>
+			<svar value="Fylder spanden med universalrengøringsmiddel."/>
+			<svar value="Hun åbner dørene og sparker kilerne ind under dem."/>
+			<svar value="Tager gummihandsker på."/>
+		</spm>
+		
+
+	</runde>
+</wrap>
+

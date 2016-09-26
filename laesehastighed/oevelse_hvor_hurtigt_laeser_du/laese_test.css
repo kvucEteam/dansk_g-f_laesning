@@ -1,0 +1,16 @@
+#tekst{
+width:555px;
+	
+}
+body {
+
+	margin: 0px;
+	font-family: arial;
+	font-size: 14px;
+	line-height: 19px;
+	height:400px;
+	overflow:auto;
+}
+#feed {
+	z-index: 5000;
+}

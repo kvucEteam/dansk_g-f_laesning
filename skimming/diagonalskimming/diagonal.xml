@@ -1,0 +1,52 @@
+﻿<?xml version="1.0"?>
+<wrap>
+	<runde>
+		<spm tekst="Hvorfor tog Pernille Rosenkrantz-Theil orlov efter valget i 2005?"
+		korrekt="3"
+		forklaring="Hun var blevet alvorligt syg af stress.">
+			<svar value="Hendes far var død kort tid forinden."/>
+			<svar value="Hendes mand var blevet alvorligt syg."/>
+			<svar value="Hun var blevet gravid."/>
+			<svar value="Hun var blevet alvorligt syg af stress."/>	
+		</spm>
+		<spm
+ tekst="Hvorfor bryder Pernille Rosenkrantz-Theil sig ikke om skolesystemet?"
+		korrekt="1"
+	forklaring="Hun mener skolesystemet har snærende rammer, og klasseundervisning er noget af de kedeligste hun ved.">
+				<svar value="Hun er ordblind, havde meget svært ved at læse, og måtte derfor gå flere klassetrin om."/>
+				<svar value="Hun mener skolesystemet har snærende rammer, og klasseundervisning er noget af de kedeligste hun ved."/>
+				<svar value="Hun gik på en meget streng kostskole."/>
+				<svar value="Hun havde meget svært ved at lære, og måtte derfor gå 3. klasse om."/>
+			</spm>
+			<spm
+			tekst="Hvordan blev Pernille Rosenkrantz-Theil politisk aktiv?"
+			korrekt="0"
+			forklaring="Ved et uheld, da hun ved lodtrækning blev valgt ind som elevrepræsentant i gymnasiet.">
+				<svar value="Ved et uheld, da hun ved lodtrækning blev valgt ind som elevrepræsentant i gymnasiet."/>
+				<svar value="Hun meldte sig som 15-årig ind i Enhedslistens ungdomsorganisation."/>
+				<svar value="Hendes mor var aktivt medlem af Socialdemokraterne, og Pernille fandt det som ganske ung naturligt at gå i sin mors fodspor."/>
+				<svar value="Hun var allerede i folkeskolen politisk aktiv i lokalområdet, og blev opfordret af sine kammerater til at melde sig ind i Socialistisk Folkeparti."/>
+			</spm>
+			<spm
+	tekst="Hvilke tanker havde Pernille Rosenkrantz-Theil om Helle Thorning-Schmidt til at begynde med?"
+	korrekt="1"
+	forklaring="Hun havde ikke så høje tanker om Helle Thorning-Schmidt, men har måtte give hende, at der er ro på bagsmækken.">
+				<svar value="Hun har altid haft Helle Thorning-Schmidt som et idol, og hun er ikke blevet skuffet, fordi Helle Thorning-Shcmidt har styr på baglandet."/>
+				<svar value="Hun havde ikke så høje tanker om Helle Thorning-Schmid, men har måtte give hende, at der er ro på bagsmækken."/>
+				<svar value="Hun mente, og mener stadig, at Helle Thorning-Schmidt har for meget kaos i baglandet."/>
+				<svar value="Hun mente at Helle Thorning-Schmidt var en hyklerisk løgner, med for mange spindoktorer langs bagsmækken."/>
+			</spm>
+		<spm
+	tekst="Har Pernille Rosenkrantz-Theils grundholdninger ændret sig, efter hun blev socialdemokrat?"
+	korrekt="0"
+	forklaring="Nej. Hendes grundholdninger er de samme. Hun er stadig modstander af EU, 24-års reglen, skattestoppet og krigen i Afghanistan - selvom det er stik imod officiel solcialdemokratisk politik.">
+			<svar value="Nej. Hendes grundholdninger er de samme. Hun er stadig modstander af EU, 24-års reglen, skattestoppet og krigen i Afghanistan - selvom det er stik imod officiel solcialdemokratisk politik."/>
+			<svar value="Nej, men hun har ændret holdninger vedrørende særligt EU, 24-års reglen, skattestoppet og krigen i Afghanistan, for bedre at passe ind hos ocialdemokraterne."/>
+			<svar value="Ja. Hun har ændret holdninger vedrørende EU, 24-års reglen, skattestoppet og krigen i Afghanistan, for bedre at være på linje med socialdemokratisk politik."/>
+			<svar value="Ja. Hun har måtte ændre næsten alle sine holdninger, ellers kunne hun ikke blive medlem af socialdemokraterne."/>
+		</spm>
+		
+
+	</runde>
+</wrap>
+

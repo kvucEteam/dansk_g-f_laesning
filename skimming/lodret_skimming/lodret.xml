@@ -1,0 +1,52 @@
+﻿<?xml version="1.0"?>
+<wrap>
+	<runde>
+		<spm tekst="Hvad er Frederik Stjernfelt professor i?"
+		korrekt="1"
+		forklaring="Kognitiv semiotik.">
+			<svar value="Kognitive semiarier."/>
+			<svar value="Kognitiv semiotik."/>
+			<svar value="Statistisk kognition."/>
+			<svar value="Semiotisk kognition."/>	
+		</spm>
+		<spm
+ tekst="Hvad blev skabt ud af jætten Ymers hovedskal?"
+		korrekt="0"
+	forklaring="Himmelhvælvet. ">
+				<svar value="Himmelhvælvet."/>
+				<svar value="Skyerne."/>
+				<svar value="Landjorden"/>
+				<svar value="Havet."/>
+			</spm>
+			<spm
+			tekst="Hvad betyder semiotik?"
+			korrekt="3"
+			forklaring="Semiotik er traditionelt læren om tegn og tegnsystemer.">
+				<svar value="Semiotik er læren om at dele ting i to."/>
+				<svar value="Semiotik betyder traditionel psykologi."/>
+				<svar value="Semiotik er læren om jordpladers bevægelse."/>
+				<svar value="Semiotik er traditionelt læren om tegn og tegnsystemer."/>
+			</spm>
+			<spm
+	tekst="Hvad mener Frederik Stjernfelt er en stor udfordring for moderne troende?"
+	korrekt="0"
+	forklaring="At de skal være både troende og moderne. ">
+				<svar value="At de skal være både troende og moderne."/>
+				<svar value="At moralfilosofer og damebrevkasser fylder for meget i medierne."/>
+				<svar value="At ytringsfriheden gør at folk ikke kan være religiøse."/>
+				<svar value="At pavens uniform er for gammeldags."/>
+			</spm>
+		<spm
+	tekst="Hvor finder den jødiske filosof Spinoza klangbund?"
+	korrekt="2"
+	forklaring="Blandt de forfulgte franske protestanter, huguenotterne, i Holland.">
+			<svar value="Blandt de indfødte på øen Samoa i Stillehavet."/>
+			<svar value="Blandt den skotske lavadel."/>
+			<svar value="Blandt de forfulgte franske protestanter, huguenotterne, i Holland."/>
+			<svar value="Blandt katolikkerne i Vatikanstaten."/>
+		</spm>
+		
+
+	</runde>
+</wrap>
+

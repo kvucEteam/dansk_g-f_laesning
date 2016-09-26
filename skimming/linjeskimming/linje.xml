@@ -1,0 +1,52 @@
+﻿<?xml version="1.0"?>
+<wrap>
+	<runde>
+		<spm tekst="Hvordan virker venepumpen?"
+		korrekt="0"
+		forklaring="Lidt som et ventilsystem.">
+			<svar value="Lidt som et ventilsystem."/>
+			<svar value="Som en dieselmotor."/>
+			<svar value="På samme måde som en slusekanal."/>
+			<svar value="Lidt som en færgerute."/>	
+		</spm>
+		<spm
+ tekst="Hvilke stoffer er (iflg. teksten) i stand til at gennemtrænge blod-hjerne-barrieren?"
+		korrekt="2"
+	forklaring="Alkohol og visse former for medicin.">
+				<svar value="Dimethyloctan og adonesintrifosfat."/>
+				<svar value="Glukose og laktose."/>
+				<svar value="Alkohol og visse former for medicin."/>
+				<svar value="Kun sporstoffer fra svampe."/>
+			</spm>
+			<spm
+			tekst="Hvor starter lungekredsløbet?"
+			korrekt="3"
+			forklaring="Højre hjertekammer.">
+				<svar value="Højre lunge."/>
+				<svar value="Venstre lunge."/>
+				<svar value="Venstre hjertekammer."/>
+				<svar value="Højre hjertekammer."/>
+			</spm>
+			<spm
+	tekst="Hvor foregår blodets udveksling af væske, ilt, næringsstoffer, CO2 m.v.?"
+	korrekt="0"
+	forklaring="Via det parakapillære kredsløb.">
+				<svar value="Via det parakapillære kredsløb."/>
+				<svar value="Via det paravenøse kredsløb."/>
+				<svar value="Via det systemiske kredsløb."/>
+				<svar value="Via lymfesystemet."/>
+			</spm>
+		<spm
+	tekst="Hvad spiller en stor rolle i kroppens immunforsvar?"
+	korrekt="1"
+	forklaring="De hvide blodlegemer.">
+			<svar value="De røde blodlegemer."/>
+			<svar value="De hvide blodlegemer."/>
+			<svar value="Bakterierne i tarmen."/>
+			<svar value="Blodplasma."/>
+		</spm>
+		
+
+	</runde>
+</wrap>
+
