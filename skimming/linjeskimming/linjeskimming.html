@@ -1,30 +1,27 @@
 <!doctype html>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en">
 	<head>
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 		<title>Linjeskimming</title>
-		<meta name="author" content="ato" />
-		<meta http-equiv="X-UA-Compatible" content="IE=edge" >
-		<link rel="stylesheet" href="mp.css" type="text/css" />
-		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
-		<script src="mp.js"></script>
-		<!-- Date: 2012-08-07 -->
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <link rel="stylesheet" href="../../../library/css/styles.css" type="text/css" />
+        <script src="../../../library/vendor_scripts.js"></script>
+        <script src="../../../library/custom_scripts.js"></script>
 	</head>
 	<body>
-		<h1>LINJESKIMMING</h1>
-		<p>​Linjeskimming: Du læser de første og sidste linjer i i hvert afsnit og skimmer resten med en af de tre første teknikker. Man bruger især linjeskimming til tekster med stor informationstæthed ("tunge" tekster).​</p>
+		<div class="container-fluid">
+			<h1>Linjeskimning</h1>
+			<div class="instruction"></div>
+			<div class="explanation"></div>
+			<div class="col-xs-8">		
 	
-		<iframe width="420" height="315" src="https://www.youtube.com/embed/k2kSTcw0xNI" frameborder="0" allowfullscreen></iframe>
+			<iframe width="750" height="422" src="https://www.youtube.com/embed/k2kSTcw0xNI" frameborder="0" allowfullscreen></iframe>
 
-		<h2>ARBEJDE / læse</h2>
-		<p>I denne opgave skal du arbejde med linjeskimming, og søge svar på spørgsmål i en tekst kun ved hjælp af linjeskimming.</p>
-		<p>Start med at åbne læseteksten nedenfor. Teksten vil komme frem i et nyt faneblad i din browser.</p>
-		<p>Åben herefter opgaverne, og skift frem og tilbage mellem opgaverne og læseteksten, og skim dig frem til svarene ved hjælp af linjeskimming.</p>
-		<p><a href="linje.pdf" target="_blank">Åben læseteksten her</a></p>
-		<div class = "popud"> </div>
-
+			</div>
+		</div>
 	</body>
-	<script> getXML("linje.xml");
-	setHeight("390");
+	<script> 
+	$('.instruction').append(instruction("Hvad vil linjeskimning sige? Se videoen for at finde ud af det"));
+    $('.explanation').append(explanation("Ved linjeskimning læser du de første og sidste linjer i i hvert afsnit og skimmer resten med en af de tre første teknikker. Man bruger især linjeskimming til tekster med stor informationstæthed (tunge tekster).​"));
+    one_line_footer();
 	</script>
 </html>
