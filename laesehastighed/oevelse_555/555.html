@@ -1,20 +1,44 @@
 <!doctype html>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en">
 	<head>
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 		<title>Tekstlæser</title>
-		<meta name="author" content="ato" />
-		<meta http-equiv="X-UA-Compatible" content="IE=edge" >
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <link rel="stylesheet" href="../../../library/css/styles.css" type="text/css" />
 		<link rel="stylesheet" href="text_l.css" type="text/css" />
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
 		<script src="text_l.js"></script>
+		<script src="../../../library/vendor_scripts.js"></script>
+        <script src="../../../library/custom_scripts.js"></script>
 		<!-- Date: 2012-08-07 -->
 	</head>
 	<body>
-		<div id="baggrund">
-	   		<div id="opatekst"></div>
-			<div id="mask">
-	    		<div id="tekst" value ="555">
+		<div class="container-fluid">
+			<h1>5-5-5 læsetest</h1>
+			<div class="instruction"></div>
+			<div class="explanation"></div>
+				<div class="col-xs-8">
+
+				<div id ="panel">
+					<div id="speed">
+					Indtast din læsehastighed:
+					<input id="read_speed" type='input' size="4" maxlength="4"><br/>
+					</div>
+
+					<br>
+
+					<button type="button" id ="s_button" class="btn btn-primary s_button">Start læsning</button>
+					<button type="button" id ="p_button" class="btn btn-primary s_button">Stop læsning</button>
+
+					<br>
+
+					<div class ="feed"></div>
+				</div>
+
+
+				<div id="baggrund">
+	   				<div id="opatekst"></div>
+					<div id="mask">
+	    			<div id="tekst" value ="555">
     			
 	    			<div class ="kapitel"><b> Bornholm - Uhyrerne i Almindingen. </b>
 						<br/>
@@ -318,17 +342,15 @@
 						<br/>
 					</div>
 				</div>
+				</div>
+			</div>
 			</div>
 		</div>
-		<div id ="panel">
-			<div id="speed">
-				Indtast din læsehastighed:
-				
-				<input id="read_speed" type='input' size="3" maxlength="3"><br/>
-			</div>
-					<img src="s_button.png" id ="s_button"> 
-					<img src="p_button.png" id ="p_button"> 
-					<div class ="feed"></div>
-		</div>
+		
 	</body>
+	<script>
+        $('.instruction').append(instruction("Her kan du træne din læsehastighed med 5-5-5-metoden. Læsningen er delt ind i 3 gange 5 minutters læsning. Først almindelig læsning, derefter hurtig læsning og til sidst spurtlæsning."));
+        $('.explanation').append(explanation("Du skal bruge 15 minutter på 5-5-5 øvelsen. Ved at lave øvelsen, presser du gradvist dig selv til at læse hurtigere og mere effektivt. For at lave øvelsen, skal du kende din læsehastighed."));
+        one_line_footer();
+    </script>
 </html>
