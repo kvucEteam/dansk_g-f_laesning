@@ -1,5 +1,5 @@
 #baggrund {
-	background:#cccccc;
+	
 	width: 574px;
 	height: 400px;
 	opacity: 1;
@@ -45,7 +45,6 @@ body {
 	font-family: verdana;
 	font-size: 14px;
 	line-height: 19px;
-	background:#cccccc;
 	height:400px;
 	overflow:hidden;
 }
@@ -69,3 +68,4 @@ img{
 	margin: 0px;
 	cursor:pointer;
 }​
+
