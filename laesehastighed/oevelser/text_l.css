@@ -40,7 +40,8 @@
 
 	-ms-zoom:10%;
 }
-body {
+
+.framebody {
 	margin: 0px;
 	font-family: verdana;
 	font-size: 14px;
