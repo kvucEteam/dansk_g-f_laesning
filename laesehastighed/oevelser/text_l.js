@@ -3,7 +3,10 @@
 //555:
 
 $(window).load(function() {
-	////alert("pølse");
+
+//microhint($('#speed'), "Hej hej") 
+
+
 
 	var
 	start_fart;
